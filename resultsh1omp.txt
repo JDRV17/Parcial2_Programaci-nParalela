@@ -1,0 +1,168 @@
+Procesando tablero: : ABCDEFG#IJKHMNOL
+Resultado: 2
+Tiempo de ejecución: 0.0165554 segundos.
+
+Procesando tablero: : ABCDEFGHIJ#LMNKO
+Resultado: 2
+Tiempo de ejecución: 0.00619756 segundos.
+
+Procesando tablero: : ABCDEFGHIJKLM#NO
+Resultado: 2
+Tiempo de ejecución: 0.00561672 segundos.
+
+Procesando tablero: : ABCDEFG#IJKHMNOL
+Resultado: 2
+Tiempo de ejecución: 0.00242028 segundos.
+
+Procesando tablero: : ABCDEFGHIJ#KMNOL
+Resultado: 2
+Tiempo de ejecución: 0.0234596 segundos.
+
+Procesando tablero: : ABCDEFGHIJKLM#NO
+Resultado: 2
+Tiempo de ejecución: 0.00244328 segundos.
+
+Procesando tablero: : ABCDEFGHIJ#LMNKO
+Resultado: 2
+Tiempo de ejecución: 0.0144508 segundos.
+
+Procesando tablero: : ABCDEFGHIJKLM#NO
+Resultado: 2
+Tiempo de ejecución: 0.0134513 segundos.
+
+Procesando tablero: : ABCDEFG#IJKHMNOL
+Resultado: 2
+Tiempo de ejecución: 0.0293509 segundos.
+
+Procesando tablero: : ABCDEFGHIJ#KMNOL
+Resultado: 2
+Tiempo de ejecución: 0.00192484 segundos.
+
+Procesando tablero: : AB#CEFGDIJKHMNOL
+Resultado: 4
+Tiempo de ejecución: 0.00246788 segundos.
+
+Procesando tablero: : AB#CEFGDIJKHMNOL
+Resultado: 4
+Tiempo de ejecución: 0.00026612 segundos.
+
+Procesando tablero: : AB#DEFCGIJKHMNOL
+Resultado: 4
+Tiempo de ejecución: 0.0150084 segundos.
+
+Procesando tablero: : ABCDEFGHINJLM#KO
+Resultado: 4
+Tiempo de ejecución: 0.00123019 segundos.
+
+Procesando tablero: : ABCDEFGHIJLOMNK#
+Resultado: 4
+Tiempo de ejecución: 0.00155932 segundos.
+
+Procesando tablero: : ABCDEFGHIJOKMNL#
+Resultado: 4
+Tiempo de ejecución: 0.0272413 segundos.
+
+Procesando tablero: : ABCDE#GHIFKLMJNO
+Resultado: 4
+Tiempo de ejecución: 0.0490148 segundos.
+
+Procesando tablero: : AB#DEFCGIJKHMNOL
+Resultado: 4
+Tiempo de ejecución: 0.010567 segundos.
+
+Procesando tablero: : ABCDEFGH#JKLIMNO
+Resultado: 4
+Tiempo de ejecución: 0.0570923 segundos.
+
+Procesando tablero: : ABCDEFGH#IKLMJNO
+Resultado: 4
+Tiempo de ejecución: 0.0173329 segundos.
+
+Procesando tablero: : #AGCEBFDIJKHMNOL
+Resultado: 8
+Tiempo de ejecución: 0.0788338 segundos.
+
+Procesando tablero: : AFBCE#HDIJGKMNOL
+Resultado: 8
+Tiempo de ejecución: 0.00123875 segundos.
+
+Procesando tablero: : EABCIFGD#JKHMNOL
+Resultado: 8
+Tiempo de ejecución: 0.0773692 segundos.
+
+Procesando tablero: : ABCDEFGH#MKLJINO
+Resultado: 8
+Tiempo de ejecución: 0.0266632 segundos.
+
+Procesando tablero: : ABCDEFL#IJHGMNKO
+Resultado: 8
+Tiempo de ejecución: 0.00711442 segundos.
+
+Procesando tablero: : ABCDE#GHMFJKNIOL
+Resultado: 8
+Tiempo de ejecución: 0.0604922 segundos.
+
+Procesando tablero: : ABCDFGKHEI#LMJNO
+Resultado: 8
+Tiempo de ejecución: 0.00915343 segundos.
+
+Procesando tablero: : ABCDEFGHMIJLNKO#
+Resultado: 8
+Tiempo de ejecución: 0.0230915 segundos.
+
+Procesando tablero: : EACDB#GHIFKLMJNO
+Resultado: 8
+Tiempo de ejecución: 0.0682546 segundos.
+
+Procesando tablero: : AFBCIEGD#JKHMNOL
+Resultado: 8
+Tiempo de ejecución: 0.00171344 segundos.
+
+Procesando tablero: : ABDHEFGCIJ#LMNKO
+Resultado: 8
+Tiempo de ejecución: 0.0466329 segundos.
+
+Procesando tablero: : FBDHAEC#IJGKMNOL
+Resultado: 12
+Tiempo de ejecución: 0.146984 segundos.
+
+Procesando tablero: : ABCDEGOHIJFLM#KN
+Resultado: 14
+Tiempo de ejecución: 0.228552 segundos.
+
+Procesando tablero: : EC#DBAJHIGFLMNKO
+Resultado: 14
+Tiempo de ejecución: 0.00331726 segundos.
+
+Procesando tablero: : BGDHACF#ENJLIMKO
+Resultado: 16
+Tiempo de ejecución: 0.0019982 segundos.
+
+Procesando tablero: : BCGDAFJH#EKLINMO
+Resultado: 16
+Tiempo de ejecución: 0.00569854 segundos.
+
+Procesando tablero: : BCDHAFGOEJLKIMN#
+Resultado: 16
+Tiempo de ejecución: 0.0898625 segundos.
+
+Procesando tablero: : AFBGEJKC#NHDIMOL
+Resultado: 16
+Tiempo de ejecución: 0.0962921 segundos.
+
+Procesando tablero: : EB#CFJGDAIKHMNOL
+Resultado: 16
+Tiempo de ejecución: 0.153016 segundos.
+
+Procesando tablero: : FCGDBAKH#EJLIMNO
+Resultado: 16
+Tiempo de ejecución: 0.0722937 segundos.
+
+Procesando tablero: : BGFCAJLDENKHI#MO
+Resultado: 20
+Tiempo de ejecución: 0.130477 segundos.
+
+Procesando tablero: : AFCGIEBD#NKHJMOL
+Resultado: 22
+Tiempo de ejecución: 1.22539 segundos.
+

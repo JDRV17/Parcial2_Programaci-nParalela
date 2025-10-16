@@ -1,0 +1,161 @@
+Procesando tablero: ABCDEFG#IJKHMNOL
+Resultado: 2
+Tiempo de ejecución: 0.0018114 segundos.
+
+Procesando tablero: ABCDEFGHIJ#LMNKO
+Resultado: 2
+Tiempo de ejecución: 0.00168859 segundos.
+
+Procesando tablero: ABCDEFGHIJKLM#NO
+Resultado: 2
+Tiempo de ejecución: 0.000667036 segundos.
+
+Procesando tablero: ABCDEFG#IJKHMNOL
+Resultado: 2
+Tiempo de ejecución: 0.00111636 segundos.
+
+Procesando tablero: ABCDEFGHIJ#KMNOL
+Resultado: 2
+Tiempo de ejecución: 0.011068 segundos.
+
+Procesando tablero: ABCDEFGHIJKLM#NO
+Resultado: 2
+Tiempo de ejecución: 0.00721189 segundos.
+
+Procesando tablero: ABCDEFGHIJ#LMNKO
+Resultado: 2
+Tiempo de ejecución: 0.00684767 segundos.
+
+Procesando tablero: ABCDEFGHIJKLM#NO
+Resultado: 2
+Tiempo de ejecución: 0.00925459 segundos.
+
+Procesando tablero: ABCDEFG#IJKHMNOL
+Resultado: 2
+Tiempo de ejecución: 0.00913319 segundos.
+
+Procesando tablero: ABCDEFGHIJ#KMNOL
+Resultado: 2
+Tiempo de ejecución: 0.0106144 segundos.
+
+Procesando tablero: AB#CEFGDIJKHMNOL
+Resultado: 4
+Tiempo de ejecución: 0.012917 segundos.
+
+Procesando tablero: AB#CEFGDIJKHMNOL
+Resultado: 4
+Tiempo de ejecución: 0.0103728 segundos.
+
+Procesando tablero: AB#DEFCGIJKHMNOL
+Resultado: 4
+Tiempo de ejecución: 0.0128706 segundos.
+
+Procesando tablero: ABCDEFGHINJLM#KO
+Resultado: 4
+Tiempo de ejecución: 0.0135638 segundos.
+
+Procesando tablero: ABCDEFGHIJLOMNK#
+Resultado: 4
+Tiempo de ejecución: 0.0114946 segundos.
+
+Procesando tablero: ABCDEFGHIJOKMNL#
+Resultado: 4
+Tiempo de ejecución: 0.0110513 segundos.
+
+Procesando tablero: ABCDE#GHIFKLMJNO
+Resultado: 4
+Tiempo de ejecución: 0.0107193 segundos.
+
+Procesando tablero: AB#DEFCGIJKHMNOL
+Resultado: 4
+Tiempo de ejecución: 0.015408 segundos.
+
+Procesando tablero: ABCDEFGH#JKLIMNO
+Resultado: 4
+Tiempo de ejecución: 0.0107358 segundos.
+
+Procesando tablero: ABCDEFGH#IKLMJNO
+Resultado: 4
+Tiempo de ejecución: 0.0117045 segundos.
+
+Procesando tablero: #AGCEBFDIJKHMNOL
+Resultado: 8
+Tiempo de ejecución: 0.00509327 segundos.
+
+Procesando tablero: AFBCE#HDIJGKMNOL
+Resultado: 8
+Tiempo de ejecución: 0.0296343 segundos.
+
+Procesando tablero: EABCIFGD#JKHMNOL
+Resultado: 8
+Tiempo de ejecución: 0.0274206 segundos.
+
+Procesando tablero: ABCDEFGH#MKLJINO
+Resultado: 8
+Tiempo de ejecución: 0.0298312 segundos.
+
+Procesando tablero: ABCDEFL#IJHGMNKO
+Resultado: 8
+Tiempo de ejecución: 0.0278503 segundos.
+
+Procesando tablero: ABCDE#GHMFJKNIOL
+Resultado: 8
+Tiempo de ejecución: 0.0250291 segundos.
+
+Procesando tablero: ABCDFGKHEI#LMJNO
+Resultado: 8
+Tiempo de ejecución: 0.0226467 segundos.
+
+Procesando tablero: ABCDEFGHMIJLNKO#
+Resultado: 8
+Tiempo de ejecución: 0.0267876 segundos.
+
+Procesando tablero: EACDB#GHIFKLMJNO
+Resultado: 8
+Tiempo de ejecución: 0.027506 segundos.
+
+Procesando tablero: AFBCIEGD#JKHMNOL
+Resultado: 8
+Tiempo de ejecución: 0.0233321 segundos.
+
+Procesando tablero: ABDHEFGCIJ#LMNKO
+Resultado: 8
+Tiempo de ejecución: 0.0291937 segundos.
+
+Procesando tablero: FBDHAEC#IJGKMNOL
+Resultado: 12
+Tiempo de ejecución: 0.114722 segundos.
+
+Procesando tablero: ABCDEGOHIJFLM#KN
+Resultado: 14
+Tiempo de ejecución: 0.205574 segundos.
+
+Procesando tablero: EC#DBAJHIGFLMNKO
+Resultado: 14
+Tiempo de ejecución: 0.284979 segundos.
+
+Procesando tablero: BGDHACF#ENJLIMKO
+Resultado: 16
+Tiempo de ejecución: 1.40901 segundos.
+
+Procesando tablero: BCGDAFJH#EKLINMO
+Resultado: 16
+Tiempo de ejecución: 0.957482 segundos.
+
+Procesando tablero: BCDHAFGOEJLKIMN#
+Resultado: 16
+Tiempo de ejecución: 0.895185 segundos.
+
+Procesando tablero: AFBGEJKC#NHDIMOL
+Resultado: 16
+Tiempo de ejecución: 1.28135 segundos.
+
+Procesando tablero: EB#CFJGDAIKHMNOL
+Resultado: 16
+Tiempo de ejecución: 1.58762 segundos.
+
+Procesando tablero: FCGDBAKH#EJLIMNO
+Resultado: 16
+Tiempo de ejecución: 1.20119 segundos.
+
+Procesando tablero: BGFCAJLDENKHI#MO
